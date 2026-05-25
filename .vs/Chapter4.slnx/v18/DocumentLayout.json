@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Donet\\Chapter4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\temperature monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\temperature monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\chapter4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\chapter4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\delegatecallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\delegatecallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\add__substact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\add__substact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\deleggateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31250992-23F4-44DC-BB3A-4CB5E6DF714F}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\deleggateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Temperature Monitor.cs",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\Temperature Monitor.cs",
+              "RelativeDocumentMoniker": "Chapter4\\Temperature Monitor.cs",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\Temperature Monitor.cs",
+              "RelativeToolTip": "Chapter4\\Temperature Monitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:25:58.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelegateCallBack.cs",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\DelegateCallBack.cs",
+              "RelativeDocumentMoniker": "Chapter4\\DelegateCallBack.cs",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\DelegateCallBack.cs",
+              "RelativeToolTip": "Chapter4\\DelegateCallBack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:07:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add__Substact.cs",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\Add__Substact.cs",
+              "RelativeDocumentMoniker": "Chapter4\\Add__Substact.cs",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\Add__Substact.cs",
+              "RelativeToolTip": "Chapter4\\Add__Substact.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T01:39:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chapter4",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\Chapter4.csproj",
+              "RelativeDocumentMoniker": "Chapter4\\Chapter4.csproj",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\Chapter4.csproj",
+              "RelativeToolTip": "Chapter4\\Chapter4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T01:18:07.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleggateExample.cs",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\DeleggateExample.cs",
+              "RelativeDocumentMoniker": "Chapter4\\DeleggateExample.cs",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\DeleggateExample.cs",
+              "RelativeToolTip": "Chapter4\\DeleggateExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T01:18:44.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

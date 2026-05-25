@@ -1,0 +1,14 @@
+G:\Donet\Chapter4\Chapter4\bin\Debug\net10.0\Chapter4.exe
+G:\Donet\Chapter4\Chapter4\bin\Debug\net10.0\Chapter4.deps.json
+G:\Donet\Chapter4\Chapter4\bin\Debug\net10.0\Chapter4.runtimeconfig.json
+G:\Donet\Chapter4\Chapter4\bin\Debug\net10.0\Chapter4.dll
+G:\Donet\Chapter4\Chapter4\bin\Debug\net10.0\Chapter4.pdb
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.AssemblyInfoInputs.cache
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.AssemblyInfo.cs
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.csproj.CoreCompileInputs.cache
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.dll
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\refint\Chapter4.dll
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.pdb
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.genruntimeconfig.cache
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\ref\Chapter4.dll
