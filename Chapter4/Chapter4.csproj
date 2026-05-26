@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>Chapter4.ThermometerManager</StartupObject>
+	  <StartupObject>Chapter4.DelegateTypes</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -12,3 +12,4 @@ G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\refint\Chapter4.dll
 G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.pdb
 G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.genruntimeconfig.cache
 G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\ref\Chapter4.dll
+G:\Donet\Chapter4\Chapter4\obj\Debug\net10.0\Chapter4.sourcelink.json
