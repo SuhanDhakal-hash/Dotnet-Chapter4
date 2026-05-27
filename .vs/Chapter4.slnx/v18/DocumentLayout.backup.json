@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\chapter4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\schooleventsystemtem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\schooleventsystemtem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\eventexampletwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\eventexampletwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\eventexampleone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\eventexampleone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|g:\\donet\\chapter4\\chapter4\\delegatetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C425D31-0AB8-2F2B-5BE7-6CFB95B0E004}|Chapter4\\Chapter4.csproj|solutionrelative:chapter4\\delegatetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,32 +59,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SchoolEventSystemtem.cs",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\SchoolEventSystemtem.cs",
+              "RelativeDocumentMoniker": "Chapter4\\SchoolEventSystemtem.cs",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\SchoolEventSystemtem.cs",
+              "RelativeToolTip": "Chapter4\\SchoolEventSystemtem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:29:41.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventExampleTwo.cs",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\EventExampleTwo.cs",
+              "RelativeDocumentMoniker": "Chapter4\\EventExampleTwo.cs",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\EventExampleTwo.cs*",
+              "RelativeToolTip": "Chapter4\\EventExampleTwo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:37:55.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventExampleOne.cs",
+              "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\EventExampleOne.cs",
+              "RelativeDocumentMoniker": "Chapter4\\EventExampleOne.cs",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\EventExampleOne.cs",
+              "RelativeToolTip": "Chapter4\\EventExampleOne.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA+wCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:23:58.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DelegateTypes.cs",
               "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\DelegateTypes.cs",
               "RelativeDocumentMoniker": "Chapter4\\DelegateTypes.cs",
               "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\DelegateTypes.cs",
               "RelativeToolTip": "Chapter4\\DelegateTypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-26T02:04:24.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MulticastDelegate.cs",
               "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\MulticastDelegate.cs",
               "RelativeDocumentMoniker": "Chapter4\\MulticastDelegate.cs",
               "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\MulticastDelegate.cs",
               "RelativeToolTip": "Chapter4\\MulticastDelegate.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-26T01:10:26.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Temperature Monitor.cs",
               "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\Temperature Monitor.cs",
               "RelativeDocumentMoniker": "Chapter4\\Temperature Monitor.cs",
@@ -80,12 +131,11 @@
               "RelativeToolTip": "Chapter4\\Temperature Monitor.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T02:25:58.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T02:25:58.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DelegateCallBack.cs",
               "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\DelegateCallBack.cs",
               "RelativeDocumentMoniker": "Chapter4\\DelegateCallBack.cs",
@@ -97,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Add__Substact.cs",
               "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\Add__Substact.cs",
               "RelativeDocumentMoniker": "Chapter4\\Add__Substact.cs",
@@ -113,16 +163,16 @@
               "Title": "Chapter4.csproj",
               "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\Chapter4.csproj",
               "RelativeDocumentMoniker": "Chapter4\\Chapter4.csproj",
-              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\Chapter4.csproj",
-              "RelativeToolTip": "Chapter4\\Chapter4.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "ToolTip": "G:\\Donet\\Chapter4\\Chapter4\\Chapter4.csproj*",
+              "RelativeToolTip": "Chapter4\\Chapter4.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-25T01:18:07.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DeleggateExample.cs",
               "DocumentMoniker": "G:\\Donet\\Chapter4\\Chapter4\\DeleggateExample.cs",
               "RelativeDocumentMoniker": "Chapter4\\DeleggateExample.cs",
